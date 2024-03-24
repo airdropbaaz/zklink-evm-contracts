@@ -1,5 +1,4 @@
-{
-  "network": {
+ "network": {
     "url": "https://matic-mumbai.chainstacklabs.com",
     "accounts": ["YOUR_DEPLOYER_KEY"],
     "gas": "auto",
